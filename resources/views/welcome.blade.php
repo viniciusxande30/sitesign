@@ -166,7 +166,7 @@
                                     <div class="slider-content s-slider-content text2 mb-100">
      
                                          <h2 data-animation="fadeInUp" data-delay=".4s">Time Especializado Para o Seu Negócio</h2>
-                                        <p data-animation="fadeInUp" data-delay=".6s">Especialistas com mais de 25 anos de experiência em diversos segmentos de nossa economia, como biotecnologia, concessionárias de rodovias, dispositivos médicos, farmacêuticas, instituições financeiras, seguradoras, serviços e tecnologia.</p>
+                                        <p data-animation="fadeInUp" data-delay=".6s">Somos Especialistas com mais de 25 anos de experiência em diversos segmentos de nossa economia, como biotecnologia, concessionárias de rodovias, dispositivos médicos, farmacêuticas, instituições financeiras, seguradoras, serviços e tecnologia.</p>
                                         <div class="slider-btn mt-40">                                          
                                             <a href="services.html" class="btn ss-btn active mr-15" data-animation="fadeInRight" data-delay=".8s">Nossos Serviços</a>
                                               <a href="https://www.youtube.com/watch?v=gyGsPlt06bo" class="video-i popup-video" data-animation="fadeInUp" data-delay=".8s" style="animation-delay: 0.8s;" tabindex="0"><i class="fas fa-play"></i> Entre em Contato</a>	
