@@ -23,7 +23,7 @@
         <link rel="stylesheet" href="{{url('/')}}/assets/css/responsive.css">
     </head>
     <body>
-     <!-- header -->a
+     <!-- header -->
         <header class="header-area header-area2">  
 			<div class="header-top second-header d-none d-lg-block">
                 <div class="container">
