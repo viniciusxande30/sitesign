@@ -79,12 +79,12 @@
             <!-- about-area-end -->
             
              <!-- services-area -->          
-            <section id="services2" class="services-area2 pt-120 pb-90 fix p-relative" style="background: #f6faff;">
+            <section  class="services-area2 pt-120 pb-90 fix p-relative" style="background: #f6faff;">
                 
                 <div class="container">
                   
                     <div class="row">   
-                        <div class="col-lg-12 p-relative">
+                        <div class="col-lg-12 p-relative" id="servicos">
                             <div class="section-title center-align mb-50 text-center">
                                  
                                 <h2>
@@ -105,9 +105,9 @@
                                    <div class="glyph-icon flaticon flaticon-finance"></div>
                                 </div>
                                <div class="services-content2">
-                                    <h5><a href="services-detail.html">Auditoria</a></h5>   
+                                    <h5><a href="{{url('/')}}/auditoria">Auditoria</a></h5>   
                                     <p>Auditoria Independente / Revisão Limitada, Auditoria Interna, Auditoria Atuarial, Due Diligence /Procedimentos Pré Acordados</p>
-                                     <a href="services-detail.html" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
+                                     <a href="{{url('/')}}/auditoria" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
                                 </div>
                             </div>              
                         </div>
@@ -120,9 +120,9 @@
                                   <div class="glyph-icon flaticon flaticon-handshake"></div>
                                 </div>
                                <div class="services-content2">
-                                   <h5><a href="services-detail.html">Tributário</a></h5>   
+                                   <h5><a href="{{url('/')}}/tributario">Tributário</a></h5>   
                                   <p>Impostos Diretos e Indiretos, Trabalhista e Previdenciário, Planejamento tributário e Preços de Transferência</p>
-                                     <a href="services-detail.html" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
+                                     <a href="{{url('/')}}/tributario" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
                                 </div>
                             </div>              
                         </div>
@@ -135,9 +135,9 @@
                                    <div class="glyph-icon flaticon flaticon-bars"></div>
                                 </div>
                                <div class="services-content2">
-                                   <h5><a href="services-detail.html">Consultoria</a></h5>   
+                                   <h5><a href="{{url('/')}}/consultoria">Consultoria</a></h5>   
                                     <p>Consultoria Empresarial, Governance, Risk & Compliance, Transaction Services & Corporate Finance, Forensic Services</p>
-                                    <a href="services-detail.html" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
+                                    <a href="{{url('/')}}/consultoria" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
                                 </div>
                             </div>              
                         </div>
@@ -151,9 +151,9 @@
                                    <div class="glyph-icon flaticon flaticon-finance"></div>
                                 </div>
                                <div class="services-content2">
-                                    <h5><a href="services-detail.html">Consultoria de RH</a></h5>   
+                                    <h5><a href="{{url('/')}}/consultoria-de-rh">Consultoria de RH</a></h5>   
                                     <p>Executive Search, HR Transformation, Executive Coaching</p>
-                                     <a href="services-detail.html" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
+                                     <a href="{{url('/')}}/consultoria-de-rh" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
                                 </div>
                             </div>              
                         </div>
@@ -166,9 +166,9 @@
                                   <div class="glyph-icon flaticon flaticon-handshake"></div>
                                 </div>
                                <div class="services-content2">
-                                   <h5><a href="services-detail.html">BPS</a></h5>   
+                                   <h5><a href="{{url('/')}}/bps">BPS</a></h5>   
                                   <p>....</p>
-                                     <a href="services-detail.html" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
+                                     <a href="{{url('/')}}/bps" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
                                 </div>
                             </div>              
                         </div>
@@ -181,9 +181,9 @@
                                    <div class="glyph-icon flaticon flaticon-bars"></div>
                                 </div>
                                <div class="services-content2">
-                                   <h5><a href="services-detail.html">Consultoria Personalizada</a></h5>   
+                                   <h5><a href="{{url('/')}}/contato">Consultoria Personalizada</a></h5>   
                                     <p>Entre em contato conosco, que nossos especialistas poderão te ajudar</p>
-                                    <a href="services-detail.html" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
+                                    <a href="{{url('/')}}/contato" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
                                 </div>
                             </div>              
                         </div>
@@ -245,7 +245,7 @@
                                     </div>
                                 </div>
                                 <div class="team-info">
-                                    <h4><a href="team-details.html">Luiz Roberto Cafarella</a></h4>
+                                    <h4><a href="{{url('/')}}/sobre-nos">Luiz Roberto Cafarella</a></h4>
                                     <span>Executivo</span>
                                   
                                 </div>
@@ -259,7 +259,7 @@
                                     </div>
                                 </div>
                                 <div class="team-info">
-                                    <h4><a href="team-details.html">Reinaldo Molina</a></h4>
+                                    <h4><a href="{{url('/')}}/sobre-nos">Reinaldo Molina</a></h4>
                                     <span>Executivo</span>
                                  
                                 </div>

@@ -38,11 +38,11 @@
                                 </div>
                                 <div class="footer-link">
                                     <ul>                                        
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html"> Quem Somos</a></li>
-                                        <li><a href="services.html"> Clientes </a></li>
-                                        <li><a href="contact.html"> Serviços</a></li>
-                                        <li><a href="blog.html">Contato </a></li>
+                                        <li><a href="{{url('/')}}">Home</a></li>
+                                        <li><a href="{{url('/')}}/quem-somos"> Quem Somos</a></li>
+                                        <li><a href="{{url('/')}}/clientes"> Clientes </a></li>
+                                        <li><a href="{{url('/')}}/servicos"> Serviços</a></li>
+                                        <li><a href="{{url('/')}}/contato">Contato </a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -54,11 +54,11 @@
                                 </div>
                                 <div class="footer-link">
                                     <ul>
-                                        <li><a href="faq.html">Auditoria</a></li>
-                                        <li><a href="#">Tributário</a></li>
-                                        <li><a href="#">Consultoria</a></li>
-                                        <li><a href="#">Consultoria de RH</a></li>
-                                        <li><a href="#">BPS</a></li>
+                                        <li><a href="{{url('/')}}/auditoria">Auditoria</a></li>
+                                        <li><a href="{{url('/')}}/tributario">Tributário</a></li>
+                                        <li><a href="{{url('/')}}/consultoria">Consultoria</a></li>
+                                        <li><a href="{{url('/')}}/consultoria-de-rh">Consultoria de RH</a></li>
+                                        <li><a href="{{url('/')}}/bps">BPS</a></li>
                                     </ul>
                                 </div>
                             </div>

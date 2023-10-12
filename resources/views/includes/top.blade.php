@@ -22,6 +22,11 @@
         <link rel="stylesheet" href="{{url('/')}}/assets/css/style.css">
         <link rel="stylesheet" href="{{url('/')}}/assets/css/responsive.css">
     </head>
+    <style>
+        html {
+        scroll-behavior: smooth;
+        }
+    </style>
     <body>
      <!-- header -->
         <header class="header-area header-area2">  
