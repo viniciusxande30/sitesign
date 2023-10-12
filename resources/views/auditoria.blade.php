@@ -37,11 +37,11 @@
                                 <!-- Services Category -->
                                 <ul class="services-categories">
                                     <li><a href="#">Todos os Serviços</a></li>
-                                    <li class="active"><a href="service-detail.html">Auditoria</a></li>
-                                    <li><a href="services-detail.html">Tributário</a></li>
-                                    <li><a href="service-detail.html">Consultoria</a></li>                                    
-                                    <li><a href="services-detail.html">Consultoria de RH</a></li>
-                                    <li><a href="services-detail.html">BPS</a></li>
+                                    <li class="active"><a href="{{url('/')}}/auditoria">Auditoria</a></li>
+                                    <li><a href="{{url('/')}}/tributario">Tributário</a></li>
+                                    <li><a href="{{url('/')}}/consultoria">Consultoria</a></li>                                    
+                                    <li><a href="{{url('/')}}/consultoria-de-rh">Consultoria de RH</a></li>
+                                    <li><a href="{{url('/')}}/bps">BPS</a></li>
                                 </ul>
                             </div>
                         </div>
