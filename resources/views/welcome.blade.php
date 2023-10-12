@@ -1,4 +1,5 @@
 @include('includes.top')
+@include('includes.slide')
             <!-- slider-area-end -->
                 <!-- counter-area -->
             <div class="counter-area">

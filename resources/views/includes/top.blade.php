@@ -73,7 +73,7 @@
                         <div class="row align-items-center">
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
-                                    <a href="index.html"><img src="{{url('/')}}/assets/img/logo/logo.png" alt="logo"></a>
+                                    <a href="{{url('/')}}"><img src="{{url('/')}}/assets/img/logo/logo.png" alt="logo"></a>
                                 </div>
                             </div>
                            <div class="col-xl-8 col-lg-8">
@@ -82,23 +82,23 @@
                                     <nav id="mobile-menu" style="display: block;">
                                         <ul>
                                             <li>
-												<a href="index.html">Home</a>
+												<a href="{{url('/')}}">Home</a>
 											
 											</li>
-                                            <li><a href="about.html">Quem Somos</a></li>
-                                            <li><a href="about.html">Clientes</a></li>
+                                            <li><a href="{{url('/')}}/quem-somos">Quem Somos</a></li>
+                                            <li><a href="{{url('/')}}/clientes">Clientes</a></li>
                                             <li class="has-sub"> 
-                                                <a href="blog.html">Serviços</a>
+                                                <a href="#">Serviços</a>
                                                 <ul>
-                                                    <li><a href="blog.html">Auditoria</a></li>
-                                                    <li><a href="blog-details.html">Tributário</a></li>
-                                                    <li><a href="blog-details.html">Consultoria</a></li>
-                                                    <li><a href="blog-details.html">Consultoria de RH</a></li>
-                                                    <li><a href="blog-details.html">BPS</a></li>
+                                                    <li><a href="{{url('/')}}/auditoria">Auditoria</a></li>
+                                                    <li><a href="{{url('/')}}/tributario">Tributário</a></li>
+                                                    <li><a href="{{url('/')}}/consultoria">Consultoria</a></li>
+                                                    <li><a href="{{url('/')}}/consultoria-de-rh">Consultoria de RH</a></li>
+                                                    <li><a href="{{url('/')}}/bps">BPS</a></li>
 
 												</ul>
                                             </li>
-                                            <li><a href="about.html">Contato</a></li>
+                                            <li><a href="{{url('/')}}/contato">Contato</a></li>
 
                                                                                   
                                         </ul>
@@ -106,7 +106,7 @@
                                 </div>
                             </div>   
                             <div class="col-xl-2 col-lg-2 text-right d-none d-lg-block mt-15 mb-15">
-                                <a href="contact.html" class="btn ss-btn">Fale Conosco</a>
+                                <a href="{{url('/')}}/contato" class="btn ss-btn">Fale Conosco</a>
                             </div>
                           
                             
@@ -130,11 +130,11 @@
                     
                     <div id="cssmenu3" class="menu-one-page-menu-container">
                         <ul id="menu-one-page-menu-2" class="menu">
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="index.html">Home</a></li>
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="about.html">Quem Somos</a></li>
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="services.html">Clientes</a></li>
-                             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="pricing.html">Serviços </a></li>
-                             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="team.html">Contato </a></li>
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{url('/')}}">Home</a></li>
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{url('/')}}/quem-somos">Quem Somos</a></li>
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{url('/')}}/clientes">Clientes</a></li>
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">Serviços </a></li>
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{url('/')}}/contato">Contato </a></li>
                             
                         </ul>
                     </div>  
@@ -148,60 +148,3 @@
             </div>
             <div class="offcanvas-overly"></div>
                  <!-- offcanvas-end -->
-        <!-- main-area -->
-        <main>
-             
-              <!-- slider-area -->
-            <section id="home" class="slider-area fix p-relative">
-               
-                <div class="slider-active">
-				
-                    <div class="single-slider slider-bg d-flex align-items-center" style="background-image:url({{url('/')}}/assets/img/slider/slider_img01.png)">
-                        <div class="container">
-                            <div class="row">
-                                 <div class="col-lg-8">
-                                    <div class="slider-content s-slider-content text2 mb-100">
-     
-                                         <h2 data-animation="fadeInUp" data-delay=".4s">Time Especializado Para o Seu Negócio</h2>
-                                        <p data-animation="fadeInUp" data-delay=".6s">Somos Especialistas com mais de 25 anos de experiência em diversos segmentos de nossa economia, como biotecnologia, concessionárias de rodovias, dispositivos médicos, farmacêuticas, instituições financeiras, seguradoras, serviços e tecnologia.</p>
-                                        <div class="slider-btn mt-40">                                          
-                                            <a href="services.html" class="btn ss-btn active mr-15" data-animation="fadeInRight" data-delay=".8s">Nossos Serviços</a>
-                                              <a href="https://www.youtube.com/watch?v=gyGsPlt06bo" class="video-i popup-video" data-animation="fadeInUp" data-delay=".8s" style="animation-delay: 0.8s;" tabindex="0"><i class="fas fa-play"></i> Entre em Contato</a>	
-                                        </div>                                        
-                                    </div>
-                                </div>
-                                <div class="col-lg-3">
-                                   
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- <div class="single-slider slider-bg d-flex align-items-center" style="background-image:url({{url('/')}}/assets/img/slider/slider_img02.png)">
-                        <div class="container">
-                           <div class="row">
-                                <div class="col-lg-8">
-                                    <div class="slider-content s-slider-content text2 mb-100">
-                                         
-                                         <h2 data-animation="fadeInUp" data-delay=".4s">Your Business Find 
-Better Solution</h2>
-                                        <p data-animation="fadeInUp" data-delay=".6s">Fusce suscipit, velit id scelerisque tempus, enim est congue orci, eu sodales turpis tellus non elit. Cras hendrerit auctor cursus.</p>
-                                        <div class="slider-btn mt-40">                                          
-                                            <a href="services.html" class="btn ss-btn active mr-15" data-animation="fadeInRight" data-delay=".8s">Nossos Serviços</a>
-                                              <a href="https://www.youtube.com/watch?v=gyGsPlt06bo" class="video-i popup-video" data-animation="fadeInUp" data-delay=".8s" style="animation-delay: 0.8s;" tabindex="0"><i class="fas fa-play"></i> Entre em Contato</a>	
-                                        </div>                                        
-                                    </div>
-                                </div>
-                                <div class="col-lg-3">
-                                   
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-  
-                    
-                    </div>
-                    
-               
-            </section>
