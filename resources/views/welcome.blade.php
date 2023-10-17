@@ -167,7 +167,7 @@
                                 </div>
                                <div class="services-content2">
                                    <h5><a href="{{url('/')}}/bps">BPS</a></h5>   
-                                  <p>....</p>
+                                  <p> Serviços nas àreas de : contabilidade, custos, tributário, contas a pagar, contas a receber, folha de pagamento, planejamento financeiro;</p>
                                      <a href="{{url('/')}}/bps" class="mt-15" data-animation="fadeInRight" data-delay=".8s">Saiba Mais</a>
                                 </div>
                             </div>              
