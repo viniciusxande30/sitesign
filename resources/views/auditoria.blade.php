@@ -56,38 +56,107 @@
                            <div class="service-detail">
                       
 
-                        <div class="content-box">
-                            <h2> We give the best Services </h2>
-                            <p>Pleasure and praising pain was born and I will give you a complete account of the systems, and expound the actually teachings of the great explorer of the truth, the master-builder of human uts happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally Nor who loves or pursues or desires to obtain pain of itself.</p>
-    
-                            <!-- Two Column -->
-                            <div class="two-column">
-                                <div class="row">
-                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="{{url('/')}}/assets/img/resource/post-img-1.jpg" alt=""></figure>
-                                    </div>
-                                    <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <p>Builds and finances utility scale solar and storage projects throughout the United States. We specialize in developing renewable solutions to suit the specific needs of large investor owned utilities.</p>
-
-                                        <ul class="list-style-one">
-                                            <li>Engine oil level should be regularly</li>
-                                            <li>Tyres have a minimum of 1.6mm of tread</li>
-                                            <li>Ensure that the electrolyte level is correct</li>
-                                            <li>Never remove the radiator when the</li>
-                                          
-                                        </ul>
-                                    </div>
+                           <div class="col-lg-12 col-md-12">
+                            <div class="faq-wrap">
+                                <div class="section-title center-align">
+                                 
+                                <h2>
+                                    Trabalhamos com Auditoria
                                    
+                                </h2>
+                              
+                            </div>
+                                 <p>Temos os melhores especialistas em auditoria, entre em contato conosco</p>
+                                <div class="accordion" id="accordionExample">
+                                    <div class="card">
+                                        <div class="card-header" id="headingTwo">
+                                            <h2 class="mb-0">
+                                                <button class="faq-btn" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                                Auditoria Independente / Revisão Limitada
+                                                </button>
+                                            </h2>
+                                        </div>
+                                        <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample" style="">
+                                            <div class="card-body">
+                                            ✓ Auditoria das demonstrações financeiras elaboradas de acordo com BR-GAAP, IFRS e US-GAAP;<br>
+
+                                            ✓ Revisão limitada das demonstrações financeiras de acordo com as NBC’s;<br>
+
+                                            ✓ Assessoria na implementação da Lei Sarbannes Oxley e execução dos testes de conformidade.<br>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="headingTwo">
+                                            <h2 class="mb-0">
+                                                <button class="faq-btn" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                                Auditoria Interna
+                                                </button>
+                                            </h2>
+                                        </div>
+                                        <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample" style="">
+                                            <div class="card-body">
+                                            ✓ Identificação das áreas chaves do negócio;<br>
+
+                                            ✓ Elaboração de programas de testes de auditoria específicos visando atender às necessidades operacionais de cada área;<br>
+
+                                            ✓ Execução dos trabalhos em consonância com os procedimentos de auditoria definidos pelo IAA “Institute of Internal Audit”;<br>
+
+                                            ✓ Manutenção de um canal de comunicação contínuo com a Admnistração da empresa auditada de maneira a posicioná-la dos riscos identificados durante os nossos trabalhos, bem como da classificação dos riscos associados às deficiências identificadas;<br>
+
+                                            ✓ Elaboração de relatório contendo um Sumário das deficiências encontradas, os riscos associados a estas deficiências, bem como as nossas recomendações quanto às alterações necessárias no Sistema de controles internos da empresa auditada.<br>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="card">
+                                        <div class="card-header" id="headingTwo">
+                                            <h2 class="mb-0">
+                                                <button class="faq-btn" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                                Auditoria Atuarial
+                                                </button>
+                                            </h2>
+                                        </div>
+                                        <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample" style="">
+                                            <div class="card-body">
+                                            ✓ Auditoria das provisões técnicas, dos ativos de resseguro, dos valores redutores da necessidade de cobertura das provisões técnicas, e das bases de dados e dos limites de retenção;<br>
+
+                                            ✓ Análise da conformidade dos dados, premissas e procedimentos utilizados no cálculo do capital mínimo requerido, definido pelo regulador;<br>
+
+                                            ✓ Análise da solvência da Seguradora;<br>
+
+                                            ✓ Elaboração de Relatório da auditoria atuarial independente específico, contendo a nossa conclusão quanto aos itens anteriores, bem como um Parecer atuarial específico<br>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="card">
+                                        <div class="card-header" id="headingTwo">
+                                            <h2 class="mb-0">
+                                                <button class="faq-btn" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                                Due Diligence /Procedimentos Pré Acordados
+                                                </button>
+                                            </h2>
+                                        </div>
+                                        <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample" style="">
+                                            <div class="card-body">
+                                            ✓ Assessoria à administração na definição dos procedimentos pré acordados;<br>
+
+                                            ✓ Realização dos testes para verificar a aderência aos procedimentos pré acordados;<br>
+
+                                            ✓ Desenvolvimento do modelo de relatório a ser apresentado a administração quando do encerramento dos testes.<br>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    
+                                  
                                 </div>
                             </div>
-
-                            <h3>Why Choose This Service</h3>
-
-                            <p>Complete account of the systems and expound the actually teachings of the great explorer of the truth, the master-builder of human uts happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely.</p>
-
-                            <p>Complete account of the systems and expound the actually teachings of the great explorer of the truth, the master-builder of human uts happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally.</p>
-
-                           
                         </div>
                     </div>
                         </div>
